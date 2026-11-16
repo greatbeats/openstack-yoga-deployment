@@ -1,0 +1,15 @@
+# Credentials, generated private environment and secrets
+*.env
+!*.env.example
+admin-openrc
+*-openrc
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+*.bak
+*.bak.*
